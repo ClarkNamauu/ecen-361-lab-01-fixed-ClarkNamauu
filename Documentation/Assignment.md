@@ -51,7 +51,7 @@ For this part of the lab, you won’t need to write any code, but you’ll use t
 
 The MultiFunction add-on board uses an Arduino shield compatible form factor to add switches, 7-segment LED digits, a buzzer, potentiometer, and more LEDs. Documentation on the board is found in the Documentation folder for each lab.
 
-Steps:
+Stepss:
 
 1. Make sure your Nucleo Board is not powered on
 
